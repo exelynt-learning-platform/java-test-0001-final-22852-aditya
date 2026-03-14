@@ -1,5 +1,4 @@
-// package java-test-0001-final-22852-aditya;
-import java.util.Scanner;
+package java-test-0001-final-22852-aditya;
 
 public class Pattern {
 
@@ -21,7 +20,7 @@ public class Pattern {
 
             System.out.println();
         }
-        
+
         for(int i = n-1; i >= 1; i--) {
 
             for(int j = n; j > i; j--) {
